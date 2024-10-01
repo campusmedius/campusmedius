@@ -1,16 +1,13 @@
-## Hi there 👋
+## Campus Medius
 
-<!--
-**campusmedius/campusmedius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We do research & development on media & experience for innovation & education.
 
-Here are some ideas to get you started:
+Website: [campusmedius.net](https://campusmedius.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- Mapping Austrofascism
+  - Github: [campusmedius/mapping-austrofascism)](https://github.com/campusmedius/mapping-austrofascism)
+  - Website: [mapping-austrofascism.campusmedius.net](https://mapping-austrofascism.campusmedius.net)
+- InSituEx
+  - Website: [insituex.campusmedius.net](https://insituex.campusmedius.net)
+
